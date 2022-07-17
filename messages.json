@@ -1,0 +1,37 @@
+[
+  {
+    "id": 0,
+    "from": "Bart",
+    "text": "Welcome to CYF chat system!"
+  },
+  {
+    "from": "Neus",
+    "text": "hola mundo ",
+    "timeSet": "2022-07-17T14:52:03.051Z",
+    "id": 1
+  },
+  {
+    "from": "Charlie",
+    "text": "Welcome to Manresa city!",
+    "timeSet": "2022-07-17T14:56:47.015Z",
+    "id": 2
+  },
+  {
+    "from": "Jorge Eliecer",
+    "text": "Mundialito intercultural de futbol",
+    "timeSet": "2022-07-17T14:59:32.885Z",
+    "id": 3
+  },
+  {
+    "from": "Yhenifer Pulido",
+    "text": "Modulo Node ",
+    "timeSet": "2022-07-17T15:00:31.640Z",
+    "id": 4
+  },
+  {
+    "from": "Vanessa Marin ",
+    "text": "Colombianos  viviendo en Barcelona",
+    "timeSet": "2022-07-17T15:01:19.066Z",
+    "id": 5
+  }
+]
